@@ -1,14 +1,14 @@
-# Ahorcado-python
+# HANGMAN PYTHON
 
 ----
 
-Este programa consta de el clasico juego Ahorcado programado en python a base de funciones, estoy trabajando en programarle en POO
+This program consists of the classic Hangman game programmed in Python based on functions and object-oriented programming (OOP).
 
 ----
 
-#AHORCADO SIN POO Funcionamiento
+#HANGMAN WITHOUT OOP
 
-Version sin POO:
+Version without OOP:
 
 ```batch
 python ahorcado_sin_poo.py"
@@ -17,9 +17,9 @@ python ahorcado_sin_poo.py"
 
 ----
 
-#AHORCADO CON POO Funcionamiento 
+#AHORCADO WITH OOP
 
-Version con POO:
+Version with OOP:
 
 ``` batch
 python ahorcado_con_poo.py
